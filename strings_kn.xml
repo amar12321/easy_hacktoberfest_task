@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ಸ್ನಾಪ್ ಸ್ಕ್ರೀನ್ಶಾಟ್</string>
+    <string name="notify_record">ದಾಖಲಿಸಿ</string>
+    <string name="notify_stop">ನಿಲ್ಲಿಸಿ</string>
+    <string name="start_snap_screenshot">ಸ್ನಾಪ್ ಸ್ಕ್ರೀನ್ಶಾಟ್ ಶುರುಮಾಡಿ</string>
+    <string name="snap_screenshot_running">ಸ್ನಾಪ್ ಸ್ಕ್ರೀನ್ಶಾಟ್ ಚಾಲನೆಯಲ್ಲಿದೆ</string>
+    <string name="camera_icon">ಕೆಮರಾ ಲಾಂಛನ</string>
+    <string name="start_snap_saver">ಸ್ನಾಪ್ ಸೆವಾರ್ ಶುರುಮಾಡಿ</string>
+    <string name="stop_snap_screenshot">ಸ್ನಾಪ್ ಸ್ಕ್ರೀನ್ಶಾಟ್ ನಿಲ್ಲಿಸಲು ಇಲ್ಲಿ ಒತ್ತಿ</string>
+    <string name="remove_ads">ಪ್ರೊ ಆವೃತ್ತಿ ಕೋಳ್ಳಿ</string>
+    <string name="rate_app">ಅಪ್ಲಿಕೆಶನ್ ರೆಟ್ ಮಾಡಿ</string>
+    <string name="share_app">ಅಪ್ಲಿಕೆಶನ್ ಹಂಚಿ</string>
+    <string name="feedback">ಮರುಮಾಹಿತಿ</string>
+    <string name="open_screenshots">ಸ್ಕ್ರೀನ್ಶಾಟ್ ತೆರೆ</string>
+    <string name="become_a_pro_user">ಪ್ರೊ ಬಳಕೆದಾರರಾಗಿ</string>
+    <string name="already_pro_version">ಜಾಹಿರಾತು ಮುಕ್ತ ಆವೃತ್ತಿ ಕೊಂಡಕ್ಕೆ ಧನ್ಯವಾದಗಳು. ಆನಂದಿಸಿರಿ!!</string>
+    <string name="play_billing_licence_key"></string>
+    <string name="cross_icon">ಕ್ಸ್ರೋಸ್ ಲಾಂಛನ</string>
+    <string name="get_pro_version">ಪ್ರೊ ಆವೃತ್ತಿ ಕೋಳ್ಳಿ</string>
+    <string name="desc">ಈ ಅಪ್ಲಿಕೆಶನ್ ಗ್ರಹಿಕೆಗೆ ಬಾರದಂತೆ ಸ್ನಾಪ್ಚಾಟಿನ ಸ್ಕ್ರೀನ್ಶಾಟ್ ಅನ್ನು ತೆಗೆದುಕೋಳ್ಳುವಲ್ಲಿ ಸಹಕಾರಿಯಾಗುತ್ತದೆ. ರೂಟ್ ಮಾಡುವ ಅವಶ್ಯಕತೆ ಇಲ್ಲ.</string>
+</resources>
